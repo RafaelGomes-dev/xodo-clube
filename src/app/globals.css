@@ -3,7 +3,12 @@
 
 @theme inline {
   --color-amarelo: #fbbd4c;
-  --color-amarelo: #fbbd4c;
-  --color-amarelo: #fbbd4c;
-  
+  --color-rosa: #f3a9b0;
+  --color-azul: #91adc6;
+  --color-mint: #97c0c0;
+  --color-creme: #fbfbef;
+  --color-texto: #3d3d3d;
+
+  --font-sans: var(--font-poppins), sans-serif;
+
 }
